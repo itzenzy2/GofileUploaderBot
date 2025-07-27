@@ -1,6 +1,6 @@
 # GoFile.io Telegram Uploader
 
-A Telegram bot that runs on a personal account to upload files and direct links to GoFile.io.
+A Telegram bot that runs on a personal account to both upload files to GoFile.io and download entire folders from it.
 
 ## Setup
 
